@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Master Python',
+  tagline: 'Start learning python today',
+  url: 'https://masterpython.now.sh',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Master Python',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Master Python',
         src: 'img/logo.svg',
       },
       links: [
